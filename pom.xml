@@ -50,6 +50,8 @@
       <version>0.9.26</version>
     </dependency>
 
+  </dependencies>
+
   <build>
     <sourceDirectory>src/main/scala</sourceDirectory>
     <testSourceDirectory>src/test/scala</testSourceDirectory>
