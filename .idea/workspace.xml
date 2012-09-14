@@ -58,10 +58,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="main.css" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="main.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/public/css/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="46" column="44" selection-start="845" selection-end="845" vertical-scroll-proportion="0.7265077">
+            <state line="13" column="42" selection-start="308" selection-end="308" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -70,16 +70,16 @@
       <file leaf-file-name="index.ftl" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/templates/index.ftl">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="150" selection-start="121" selection-end="121" vertical-scroll-proportion="-4.375">
+            <state line="7" column="25" selection-start="121" selection-end="121" vertical-scroll-proportion="-4.375">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="layout.ftl" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="layout.ftl" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/templates/layout.ftl">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="66" selection-start="322" selection-end="322" vertical-scroll-proportion="-9.375">
+            <state line="15" column="66" selection-start="322" selection-end="322" vertical-scroll-proportion="0.32656023">
               <folding />
             </state>
           </provider>
@@ -529,23 +529,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/public/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="42" selection-start="308" selection-end="308" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/templates/index.ftl">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="150" selection-start="121" selection-end="121" vertical-scroll-proportion="-4.375">
+        <state line="7" column="25" selection-start="121" selection-end="121" vertical-scroll-proportion="-4.375">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/templates/layout.ftl">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="66" selection-start="322" selection-end="322" vertical-scroll-proportion="-9.375">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/public/css/main.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="46" column="44" selection-start="845" selection-end="845" vertical-scroll-proportion="0.7265077">
+        <state line="15" column="66" selection-start="322" selection-end="322" vertical-scroll-proportion="0.32656023">
           <folding />
         </state>
       </provider>
