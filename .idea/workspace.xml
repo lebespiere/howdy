@@ -76,10 +76,28 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="layout.ftl" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="layout.ftl" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/templates/layout.ftl">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="66" selection-start="322" selection-end="322" vertical-scroll-proportion="0.32656023">
+            <state line="13" column="59" selection-start="297" selection-end="297" vertical-scroll-proportion="-8.125">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.scala" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/main.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="14" column="61" selection-start="243" selection-end="243" vertical-scroll-proportion="0.29453015">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="name.ftl" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/templates/name.ftl">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="7" column="61" selection-start="110" selection-end="110" vertical-scroll-proportion="-4.375">
               <folding />
             </state>
           </provider>
@@ -105,6 +123,11 @@
       </file>
     </leaf>
   </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
@@ -112,6 +135,8 @@
         <option value="$PROJECT_DIR$/src/main/webapp/templates/index.ftl" />
         <option value="$PROJECT_DIR$/src/main/webapp/templates/layout.ftl" />
         <option value="$PROJECT_DIR$/src/main/webapp/public/css/main.css" />
+        <option value="$PROJECT_DIR$/src/main/scala/main.scala" />
+        <option value="$PROJECT_DIR$/src/main/webapp/templates/name.ftl" />
       </list>
     </option>
   </component>
@@ -261,6 +286,28 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="greeter" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="greeter" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="scala" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -522,13 +569,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="51" column="0" selection-start="1628" selection-end="1628" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/public/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
         <state line="13" column="42" selection-start="308" selection-end="308" vertical-scroll-proportion="0.0">
@@ -545,7 +585,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/templates/layout.ftl">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="66" selection-start="322" selection-end="322" vertical-scroll-proportion="0.32656023">
+        <state line="13" column="59" selection-start="297" selection-end="297" vertical-scroll-proportion="-8.125">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/templates/name.ftl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="61" selection-start="110" selection-end="110" vertical-scroll-proportion="-4.375">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="51" column="0" selection-start="1628" selection-end="1628" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/main.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="61" selection-start="243" selection-end="243" vertical-scroll-proportion="0.29453015">
           <folding />
         </state>
       </provider>
